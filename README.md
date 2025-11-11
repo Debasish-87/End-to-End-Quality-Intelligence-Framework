@@ -6,7 +6,7 @@
 This is a **Production-Grade** Automation Framework designed for **UI + API Testing** with a clean, modular structure using **Page Object Model (POM)**, **Data-Driven Testing**, **Allure Reporting**, and **Continuous Integration** via **GitHub Actions**.
 
 ### 🔥 Live Allure Report Dashboard  
-🔗 **https://debasish-87.github.io/qa-automation-framework-selenium-testng-allure/**
+🔗 **[https://debasish-87.github.io/FullStack-QA-Automation-Framework/](https://debasish-87.github.io/FullStack-QA-Automation-Framework/)**
 
 [![Allure_Report](https://img.shields.io/badge/Allure-Report-blue?style=for-the-badge)](https://debasish-87.github.io/qa-automation-framework-selenium-testng-allure/)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/Debasish-87/qa-automation-framework-selenium-testng-allure/allure-deploy.yml?label=CI%20Build&style=for-the-badge)](https://github.com/Debasish-87/qa-automation-framework-selenium-testng-allure/actions)
