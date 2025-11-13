@@ -48,7 +48,7 @@ This is a **Production-Grade** Automation Framework designed for **UI + API Test
 
 ```text
 
-qa-automation-framework-selenium-testng-allure
+FullStack-QA-Automation-Framework
 │
 ├── pom.xml                         # Dependencies & Plugins
 ├── testng.xml                      # Test Suite Runner
