@@ -22,10 +22,10 @@ It achieves this by combining automated testing with quality metrics, test criti
 
 ---
 
-## Live Quality Dashboard
+## 🔥 Live Quality Dashboard
 
-**Allure Dashboard (GitHub Pages)**
-[https://debasish-87.github.io/End-to-End-Quality-Intelligence-Framework/](https://debasish-87.github.io/End-to-End-Quality-Intelligence-Framework/)
+📊 **Allure Dashboard (GitHub Pages)**
+🔗 [https://debasish-87.github.io/End-to-End-Quality-Intelligence-Framework/](https://debasish-87.github.io/End-to-End-Quality-Intelligence-Framework/)
 
 The dashboard is automatically generated and published after every pipeline execution, providing centralized visibility for QA, engineering, and stakeholders.
 
@@ -266,12 +266,12 @@ It is designed for engineers focused on:
 
 ---
 
-## Author
+## 👤 Author
 
 Debasish
-Quality Engineering | SDET | CI/CD Automation
+Senior QA / SDET | Quality Engineering | CI/CD Automation
+📧 Email: debasishm8765@gmail.com
 
-Email: [debasishm8765@gmail.com](mailto:debasishm8765@gmail.com)
-GitHub: [https://github.com/Debasish-87](https://github.com/Debasish-87)
+🔗 GitHub: https://github.com/Debasish-87
 
 ---
