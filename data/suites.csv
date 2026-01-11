@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 11 02:29:29 UTC 2026","Sun Jan 11 02:29:29 UTC 2026","449","UI Tests Suite","UI Tests","tests.ui.LoginTest","tests.ui.LoginTest","loginTestDDT","Login with multiple datasets from Excel",""
+"passed","Sun Jan 11 02:29:32 UTC 2026","Sun Jan 11 02:29:33 UTC 2026","887","UI Tests Suite","UI Tests","tests.ui.CheckoutFlowTests","tests.ui.CheckoutFlowTests","completeCheckoutFlowTest","Complete Checkout Flow E2E",""
+"passed","Sun Jan 11 02:29:30 UTC 2026","Sun Jan 11 02:29:30 UTC 2026","221","UI Tests Suite","UI Tests","tests.ui.LoginTest","tests.ui.LoginTest","loginTestDDT","Login with multiple datasets from Excel",""
+"passed","Sun Jan 11 02:29:31 UTC 2026","Sun Jan 11 02:29:31 UTC 2026","233","UI Tests Suite","UI Tests","tests.ui.LoginTest","tests.ui.LoginTest","loginTestDDT","Login with multiple datasets from Excel",""
