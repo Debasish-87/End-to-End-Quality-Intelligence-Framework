@@ -1,5 +1,3 @@
----
-
 # End-to-End Quality Intelligence Framework (QE 1.0)
 
 A production-grade Quality Engineering framework that transforms automation execution into **release-level quality intelligence** using CI/CD pipelines, critical test analysis, and centralized Allure dashboards.
