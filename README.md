@@ -1,12 +1,12 @@
-# End-to-End Quality Intelligence Framework (QE 1.0)
+# End-to-End Quality Intelligence Framework ( QE 2.0 )
 
-A production-grade Quality Engineering platform that elevates test automation into **release-level quality intelligence**, enabling data-driven Go/No-Go decisions through CI/CD pipelines, critical test analysis, and centralized Allure dashboards.
+A production-grade Quality Engineering platform ( QE 2.0 ) that elevates test automation into **release-level quality intelligence**, enabling data-driven Go/No-Go decisions through CI/CD pipelines, critical test analysis, and centralized Allure dashboards.
 
 ---
 
 ## Executive Summary
 
-The **End-to-End Quality Intelligence Framework** represents a QE 1.0 maturity model, where automation is no longer limited to test execution but becomes an **integral input to release decisions**.
+The **End-to-End Quality Intelligence Framework** represents a ( QE 2.0 ) maturity model, where automation is no longer limited to test execution but becomes an **integral input to release decisions**.
 
 This framework was evolved from a full-stack automation system into a **decision-oriented quality platform**, reflecting how modern product organizations implement Quality Engineering at scale.
 
@@ -26,9 +26,9 @@ This framework is designed to bridge that gap.
 
 ---
 
-## Key Outcomes
+## Key Outcomes ( QE 2.0 )
 
-The framework provides:
+The framework provides: 
 
 * Fast confidence through Smoke testing
 * Risk visibility through Regression coverage
@@ -38,7 +38,7 @@ The framework provides:
 
 ---
 
-## 📊 Live Quality Dashboard (Allure)
+## 📊 Live Quality Dashboard (Allure) ( QE 2.0 )
 
 🔗 **Allure Dashboard (GitHub Pages)**
 [https://debasish-87.github.io/End-to-End-Quality-Intelligence-Framework/](https://debasish-87.github.io/End-to-End-Quality-Intelligence-Framework/)
@@ -47,7 +47,7 @@ The dashboard is automatically generated and published after every pipeline exec
 
 ---
 
-## What Makes This a Quality Intelligence Framework
+## What Makes This a Quality Intelligence Framework ( QE 2.0 )
 
 Unlike conventional automation frameworks, this system introduces **context and intent** into test results.
 
@@ -62,7 +62,7 @@ This mirrors the quality visibility model used in mature product teams.
 
 ---
 
-## Core Capabilities
+## Core Capabilities ( QE 2.0 )
 
 ### Automation Coverage
 
@@ -76,7 +76,7 @@ This mirrors the quality visibility model used in mature product teams.
 
 ---
 
-### Suite-Based Quality Strategy
+### Suite-Based Quality Strategy ( QE 2.0 )
 
 | Suite      | Purpose                           | Typical Usage         |
 | ---------- | --------------------------------- | --------------------- |
@@ -92,7 +92,7 @@ Suite execution is controlled using:
 
 ---
 
-## Quality Metrics Engine
+## Quality Metrics Engine ( QE 2.0 )
 
 The framework computes and exposes actionable metrics such as:
 
@@ -106,7 +106,7 @@ These metrics enable **objective quality discussions**, replacing subjective rel
 
 ---
 
-## Release Decision Engine
+## Release Decision Engine ( QE 2.0 )
 
 Execution data is consolidated into **decision-oriented summaries**, for example:
 
@@ -122,7 +122,7 @@ This reflects how release readiness is evaluated in real engineering review meet
 
 ---
 
-## Architecture Overview
+## Architecture Overview ( QE 2.0 )
 
 ```
 Code Commit
@@ -218,6 +218,7 @@ This demonstrates **Quality Engineering ownership**, not just automation impleme
 ## 👤 Author
 
 Debasish
+
 Senior QA / SDET | Quality Engineering | CI/CD Automation
 
 📧 Email: [debasishm8765@gmail.com](mailto:debasishm8765@gmail.com)
