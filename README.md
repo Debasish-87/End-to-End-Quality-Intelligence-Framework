@@ -47,6 +47,14 @@ The dashboard is automatically generated and published after every pipeline exec
 
 ---
 
+## 🎥 QE 2.0 – Quality Intelligence Framework Demo 
+
+▶️ **Click below to watch the demo video**
+
+https://github.com/user-attachments/assets/d3c19d64-b945-4df2-93a5-931bbe5b467b
+
+---
+
 ## What Makes This a Quality Intelligence Framework ( QE 2.0 )
 
 Unlike conventional automation frameworks, this system introduces **context and intent** into test results.
